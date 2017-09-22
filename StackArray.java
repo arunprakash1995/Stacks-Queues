@@ -1,17 +1,3 @@
-package cs6301.g23;
-//SP2- Problem 6
-
-/**
- * This programs implements array-based, bounded-sized stack.
- *Functionalities implemented: push, pop, peek, isEmpty.
- *
- * @author Arun Prakash Themothy Prabhu Vincent
- * @author Akshaya Udayakumar
- * @author Radhika Kalaiselvan
- *
- * Version 1.0 - 9/4/17
- */
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Iterator;

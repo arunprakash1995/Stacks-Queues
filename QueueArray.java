@@ -1,16 +1,3 @@
-package cs6301.g23;
-//SP2 - Problem 5
-/**
- * This programs implements array-based, bounded-sized queue.
- *Functionalities implemented: offer, poll, peek, isEmpty, resize.
- *
- * @author Arun Prakash Themothy Prabhu Vincent
- * @author Akshaya Udayakumar
- * @author Radhika Kalaiselvan
- *
- * Version 1.0 - 9/4/17
- */
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Arrays;
